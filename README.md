@@ -14,3 +14,8 @@ previous images (that were used for training of model) and then the result is dr
 
 ## Output:
 The model output is the probability. The model predicts the output on the basis of comaparisions with the trained data.
+
+## Dataset:
+Data set of CIFAR-10 has been used for training the model.
+### Click below to download data set:
+https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
