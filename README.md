@@ -1,4 +1,4 @@
-# Image-Classification-Model-using-Machine-Learning
+# Image-Classification-Model-Machine-Learning
 An image classification model is trained to recognize various classes of images. For example, a model might be trained to recognize photos representing three different types of animals and objects like: 
 Horses
 Frogs
